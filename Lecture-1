@@ -1,0 +1,14 @@
+* What is JavaScript?
+
+use console in any browser or just open one of your projects and use that
+the code is not permanent, we can use the up & down arrow to bring back old code
+
+
+JS is a programming language. We use it to give instructions to the computer.
+
+Input (code) -----> Computer-----> Output
+
+* Our 1st JS Code
+
+console.log(“Hello JS”);
+Console.log is used to log (print) a message to the console
