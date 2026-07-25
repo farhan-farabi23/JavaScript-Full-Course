@@ -50,3 +50,8 @@ console.log("d < e : ",d < e);
 console.log("d > e : ",d > e);
 console.log("d <= e : ",d <= e);
 console.log("d >= e : ",d >= e);
+
+let f = "10";
+let g = 10;
+console.log("f === g : ",f === g); //Strict Equality
+console.log("f !== g : ",f !== g); //Strict Inequality
