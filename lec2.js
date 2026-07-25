@@ -145,6 +145,8 @@ if(marks >= 80 && marks <= 100){
     console.log("Grade : C");
 } else if(marks >= 50 && marks < 60){
     console.log("Grade : D");
-}else if(marks >= 0 && marks < 50){
+} else if(marks >= 0 && marks < 50){
     console.log("Grade : F");
+} else{
+    console.log("Invalid Marks");
 }
